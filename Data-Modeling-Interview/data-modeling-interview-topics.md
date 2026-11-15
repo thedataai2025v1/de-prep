@@ -1,4 +1,4 @@
-# Data Modeling Interview — 27-Module Curriculum
+# Data Modeling Interview — 42-Module Curriculum
 
 Structured preparation for data modeling interview questions, organized in learning order from fundamentals through advanced practice scenarios.
 
@@ -61,11 +61,41 @@ Structured preparation for data modeling interview questions, organized in learn
 | 26 | [Multi-Fact Query Strategies](./26-multi-fact-query-strategies.md) | Conformed dimensions, bridge tables, combining multiple fact tables in queries |
 | 27 | [Fact Modeling Practice](./27-fact-modeling-practice.md) | Grain selection, fact table design, handling edge cases, final integrated exercise |
 
+## Part 7 — Performance Optimization
+
+| # | Module | What You'll Learn |
+|---|---|---|
+| 28 | [Date-Based Partitioning](./28-date-based-partitioning.md) | Partition by date range, partition pruning, time-series storage optimization |
+| 29 | [Indexing Strategies](./29-indexing-strategies.md) | B-tree, bitmap, zone maps, choosing indexes for query patterns |
+| 30 | [Aggregates & Materialized Views](./30-aggregates-and-materialized-views.md) | Pre-aggregated tables, refresh strategies, trade-offs vs live queries |
+
+## Part 8 — Advanced Patterns & Practice
+
+| # | Module | What You'll Learn |
+|---|---|---|
+| 31 | [Advanced Dimension Design](./31-advanced-dimension-design.md) | Mini-dimensions, ragged hierarchies, parent-child dims, progressive dimensions |
+| 32 | [Bridge Tables & Factless Facts](./32-bridge-tables-and-factless-facts.md) | Many-to-many resolution, coverage tracking, factless event fact tables |
+| 33 | [Practice: Cloud Services Platform](./33-practice-cloud-services-platform.md) | Multi-tenant SaaS modeling, usage billing, service-level tracking |
+| 34 | [Practice: Online Advertising Platform](./34-practice-online-advertising-platform.md) | Impressions, clicks, attribution, campaign hierarchies |
+
+## Part 9 — Mock Interviews & Principal-Level Prep
+
+| # | Module | What You'll Learn |
+|---|---|---|
+| 35 | [Mock Interview: Ride-Sharing Platform](./35-mock-interview-ride-sharing.md) | Full end-to-end modeling with Q&A, driver-rider matching, surge pricing |
+| 36 | [Mock Interview: Customer Support Platform](./36-mock-interview-customer-support.md) | Ticket lifecycle, SLA tracking, agent performance, escalation paths |
+| 37 | [Mock Interview: Airbnb-Style Platform](./37-mock-interview-airbnb-style.md) | Listings, bookings, reviews, host-guest matching, dynamic pricing |
+| 38 | [Mock Interview: Stripe Billing](./38-mock-interview-stripe-billing.md) | Payments, subscriptions, invoices, chargebacks, multi-currency |
+| 39 | [Mock Interview: Instagram Analytics](./39-mock-interview-instagram-analytics.md) | Social graph, content engagement, feed ranking, ad integration |
+| 40 | [Mock Interview: Amazon Orders](./40-mock-interview-amazon-orders.md) | Marketplace, seller-buyer matching, fulfillment, returns, ratings |
+| 41 | [Principal-Level Cheat Sheet](./41-principal-level-cheat-sheet.md) | Decision framework, pattern catalog, what principal interviews really test |
+| 42 | [Architect Audit Criteria](./42-architect-audit-criteria.md) | Quality checklist, scalability review, anti-patterns to flag in production models |
+
 ---
 
 ## Suggested Study Order
 
-Follow the numbered sequence 01 → 27. Each part builds on the previous:
+Follow the numbered sequence 01 → 42. Each part builds on the previous:
 
 1. **Part 1** (01–04): Learn the framework and fundamentals
 2. **Part 2** (05–12): Learn requirements analysis
@@ -73,8 +103,11 @@ Follow the numbered sequence 01 → 27. Each part builds on the previous:
 4. **Part 4** (15–20): Practice with real scenarios
 5. **Part 5** (21–23): Deep-dive into dimensional modeling
 6. **Part 6** (24–27): Deep-dive into fact table design
+7. **Part 7** (28–30): Performance optimization techniques
+8. **Part 8** (31–34): Advanced patterns + more practice scenarios
+9. **Part 9** (35–42): Mock interviews and principal-level preparation
 
-**Optional reinforcement:** After finishing all 27 modules, revisit the practice scenarios (15–20, 23, 27) with fresh knowledge of SCDs and fact table types.
+**Optional reinforcement:** After finishing all 42 modules, revisit the practice scenarios (15–20, 33–34) and mock interviews (35–40) with fresh knowledge from the deep-dive modules.
 
 ---
 

@@ -133,6 +133,30 @@ Curated resources, key takeaways, and a study guide for the 27-module Data Model
 | Cloud Data Modeling | Snowflake, BigQuery, Redshift official guides |
 | Data Product Thinking | *Data Mesh* by Zhamak Dehghani |
 
+## Part 7 — Performance Optimization
+
+- [28 — Date-Based Partitioning](./28-date-based-partitioning.md)
+- [29 — Indexing Strategies](./29-indexing-strategies.md)
+- [30 — Aggregates & Materialized Views](./30-aggregates-and-materialized-views.md)
+
+## Part 8 — Advanced Patterns & Practice
+
+- [31 — Advanced Dimension Design](./31-advanced-dimension-design.md)
+- [32 — Bridge Tables & Factless Facts](./32-bridge-tables-and-factless-facts.md)
+- [33 — Practice: Cloud Services Platform](./33-practice-cloud-services-platform.md)
+- [34 — Practice: Online Advertising Platform](./34-practice-online-advertising-platform.md)
+
+## Part 9 — Mock Interviews & Principal-Level Prep
+
+- [35 — Mock Interview: Ride-Sharing Platform](./35-mock-interview-ride-sharing.md)
+- [36 — Mock Interview: Customer Support Platform](./36-mock-interview-customer-support.md)
+- [37 — Mock Interview: Airbnb-Style Platform](./37-mock-interview-airbnb-style.md)
+- [38 — Mock Interview: Stripe Billing](./38-mock-interview-stripe-billing.md)
+- [39 — Mock Interview: Instagram Analytics](./39-mock-interview-instagram-analytics.md)
+- [40 — Mock Interview: Amazon Orders](./40-mock-interview-amazon-orders.md)
+- [41 — Principal-Level Cheat Sheet](./41-principal-level-cheat-sheet.md)
+- [42 — Architect Audit Criteria](./42-architect-audit-criteria.md)
+
 ---
 
-*Last updated: 2025-01 — aligned with the 27-module curriculum.*
+*Last updated: 2025-01 — aligned with the 42-module curriculum.*
