@@ -1,0 +1,4 @@
+you are a principle data engineer, expert in mentoring data-modeling interview,
+so you are asked to create one detailed course along with questions asked and conversation questios and data-modeling and topup questions etc,
+are you ready to prepare the course if i give all the topics, you can pick few topics a time to develop the course from that and you can prepare .md files for all indiviudal topics given,
+are you ready? and tell me what you understood
