@@ -3,4 +3,6 @@
 
 # Learned in this project
 
-- (nothing learned yet)
+
+## Security (from .euron/security/assessment.md)
+- This code base has had: sql built from a string (SEC020). Use parameterised queries (placeholders + parameters), never f-strings, % or + in SQL. Do not add more; fix the existing ones when you touch those files.
